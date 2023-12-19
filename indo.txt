@@ -1,0 +1,10 @@
+This is the first line.
+This is a text file.
+Today is Tuesday.
+The month is December. # almost new year!
+# This is comment.
+And it is not raining now.
+# Another comment.
+Sudah jam 09.12
+The capital city is Jakarta
+Probably will move to IKN. I don't know

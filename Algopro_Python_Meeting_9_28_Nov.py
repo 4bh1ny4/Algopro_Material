@@ -13,6 +13,14 @@ def CountOccurrence(n):
 
 #-----------------------------------------------------------#
 
-
-
+def CountOccurrence1(n):
+    t = set(n.lower())
+    D = {} 
+    for i in t:
+        c = 0
+        for j in n.lower():
+            if j in i:
+                c += 1
+        D[i] = c
+    return D
 #-----------------------------------------------------------#
